@@ -1,0 +1,14 @@
+.nav-link{
+    border-style:hidden;
+    display: inline;
+    margin-right: 20px;
+    background-color: aqua;
+    
+}
+.nav-links{
+    border-style:hidden;
+    display: inline;
+    margin-right: 50px;
+    background-color: aqua;
+    
+}
